@@ -208,4 +208,3 @@ curl -X POST $APP_URL/run_sse \
 ## 📝 License
 
 This project is for educational purposes as part of the ADK + Cloud Run mini-project track.
-
